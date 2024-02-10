@@ -5,3 +5,5 @@ In recent years, there has been a growing interest in the utilization of medicin
 
 ## Objective :
 The primary objective of our Medicinal Plant Identification System is to provide a reliable and efficient tool for botanists, herbalists, researchers, and enthusiasts to quickly identify medicinal plants based on their visual attributes. This system aims to bridge the gap between traditional knowledge of plant identification and modern technological advancements, making it easier for users to access information about the medicinal properties of plants.
+
+##
